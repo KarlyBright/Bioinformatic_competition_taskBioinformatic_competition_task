@@ -1,7 +1,4 @@
 # Bioinformatic_competition_taskBioinformatic_competition_task
-下面是一份 README 文件示例，你可以直接复制到项目根目录下的 README.md 文件中：
-
----
 
 # 医学文本生成系统
 
