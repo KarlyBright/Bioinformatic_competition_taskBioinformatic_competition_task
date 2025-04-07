@@ -107,8 +107,4 @@ pip install torch transformers pandas numpy tqdm jieba nltk rouge openpyxl
   欢迎对本项目进行改进或扩展，提交 issue 或 pull request 与我们共同完善该系统。
 
 - **许可协议**  
-  本项目采用 [MIT License](LICENSE)（或其他许可证，根据实际情况修改）。
-
----
-
-以上就是项目的 README 文件示例。你可以根据项目的实际需求和未来发展方向进行适当调整和扩展。
+  本项目采用 [MIT License](LICENSE)
